@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PHh2POWeOaw83E6CNgwU3Sqleqo44FaHURaq5iFcNKDqotceSGEpSlev0dCu5UAHTYyVVtZgq9I+6wyxR86ZoA==",
+  "dgSpecHash": "ruCrsQL/E/ykA0LeQYPUm4fJS7SnZ0Se8Sgo6PGRCTwVZT/g1VLs4Sd/1k3tpxDrl2DsPCMXXEsQo7qkjiD/7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\al-ra\\OneDrive\\DESENVOLVIMENTO\\BACK-END\\MACORATTI\\MVC\\Fontes\\LanchesMac_RelatorioPedidos\\LanchesMac_RelatorioPedidos\\LanchesMac\\LanchesMac\\LanchesMac.csproj",
+  "projectFilePath": "C:\\GIT\\Macoratti\\LanchesMac\\LanchesMac\\LanchesMac.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\al-ra\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.0.0\\microsoft.aspnetcore.authorization.3.0.0.nupkg.sha512",
     "C:\\Users\\al-ra\\.nuget\\packages\\microsoft.aspnetcore.components\\3.0.0\\microsoft.aspnetcore.components.3.0.0.nupkg.sha512",

@@ -9076,11 +9076,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\al-ra\\OneDrive\\DESENVOLVIMENTO\\BACK-END\\MACORATTI\\MVC\\Fontes\\LanchesMac_RelatorioPedidos\\LanchesMac_RelatorioPedidos\\LanchesMac\\LanchesMac\\LanchesMac.csproj",
+      "projectUniqueName": "C:\\GIT\\Macoratti\\LanchesMac\\LanchesMac\\LanchesMac.csproj",
       "projectName": "LanchesMac",
-      "projectPath": "C:\\Users\\al-ra\\OneDrive\\DESENVOLVIMENTO\\BACK-END\\MACORATTI\\MVC\\Fontes\\LanchesMac_RelatorioPedidos\\LanchesMac_RelatorioPedidos\\LanchesMac\\LanchesMac\\LanchesMac.csproj",
+      "projectPath": "C:\\GIT\\Macoratti\\LanchesMac\\LanchesMac\\LanchesMac.csproj",
       "packagesPath": "C:\\Users\\al-ra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\al-ra\\OneDrive\\DESENVOLVIMENTO\\BACK-END\\MACORATTI\\MVC\\Fontes\\LanchesMac_RelatorioPedidos\\LanchesMac_RelatorioPedidos\\LanchesMac\\LanchesMac\\obj\\",
+      "outputPath": "C:\\GIT\\Macoratti\\LanchesMac\\LanchesMac\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
